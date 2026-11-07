@@ -133,9 +133,11 @@ A research assistant exploring Wikipedia retrieval, document processing, embeddi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ankursingh7/Ankursingh7/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
-
-<sub>To activate this animation, configure the GitHub Actions workflow described below.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankursingh7/Ankursingh7/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ankursingh7/Ankursingh7/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Ankursingh7/Ankursingh7/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
+</picture>
 
 </div>
 
