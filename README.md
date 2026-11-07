@@ -1,106 +1,100 @@
-<!-- ANKUR SINGH / GREENROOM_01 -->
+<!-- ANKUR SINGH / MIDNIGHT_BUILD -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1712&height=210&section=header&text=ANKUR%20SINGH&fontSize=56&fontColor=E5F5E9&fontAlignY=42&desc=GREENROOM_01%20%2F%20IDEAS%20INTO%20INTERFACES&descSize=13&descColor=72D69A&descAlignY=68&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,45:17152D,100:321B46&height=230&section=header&text=ANKUR%20SINGH&fontSize=58&fontColor=F4F0FF&fontAlignY=40&desc=ENGINEERING%20INTELLIGENCE%20INTO%20REAL%20THINGS&descSize=13&descColor=C4A7FF&descAlignY=63&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=850&color=72D69A&center=true&vCenter=true&width=720&lines=I+like+understanding+how+things+work.;Then+I+try+to+build+them.;AI+%2F+CODE+%2F+PRODUCT+%2F+REPEAT." alt="A rotating line about what I build" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2400&pause=900&color=C4A7FF&center=true&vCenter=true&width=760&lines=Computer+Science+%7C+AI+%26+Machine+Learning;Building+useful+things+with+code;Curiosity+%E2%86%92+Experiments+%E2%86%92+Products;Java+%7C+Python+%7C+Full-Stack+Development" alt="Animated introduction" />
 
 <br/>
-<code>CS // AI + ML</code> &nbsp; <code>INDIA</code> &nbsp; <code>ALWAYS IN BUILD MODE</code>
+
+<a href="https://github.com/Ankursingh7?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-17152D?style=for-the-badge&logo=github&logoColor=C4A7FF&labelColor=080B18" /></a>
+<a href="https://github.com/Ankursingh7"><img src="https://img.shields.io/badge/CONNECT-GITHUB-17152D?style=for-the-badge&logo=github&logoColor=C4A7FF&labelColor=080B18" /></a>
+
 <br/><br/>
-<a href="https://github.com/Ankursingh7?tab=repositories"><img src="https://img.shields.io/badge/01%20%2F%20PROJECTS-EXPLORE-173D2B?style=flat-square&labelColor=0B1712&color=72D69A" /></a>
-<a href="https://github.com/Ankursingh7"><img src="https://img.shields.io/badge/02%20%2F%20SOURCE-GITHUB-173D2B?style=flat-square&labelColor=0B1712&color=72D69A" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=Ankursingh7&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" />
+
 </div>
 
 ---
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-### 01 — THE HUMAN
+### 01 / THE DEVELOPER
 
 I'm **Ankur Singh**, a third-year Computer Science Engineering student at **GLA University**, specialising in **Artificial Intelligence & Machine Learning**.
 
-I’m interested in the space where software engineering meets intelligent systems. I learn best by taking an idea apart, understanding the pieces, and building a working version.
+I enjoy turning curiosity into working software: understanding a problem, exploring the technology behind it, and building something useful.
 
-**Currently exploring**
-- Applied AI, machine learning & retrieval systems
-- Full-stack product development
-- Better software architecture and problem solving
+- Exploring applied AI, machine learning and retrieval systems
+- Building full-stack applications and developer tools
+- Strengthening Java, problem solving and software architecture
 
 </td>
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 
-### 02 — QUICK SIGNAL
+### 02 / QUICK PROFILE
 
-**Base**  
-Mathura, India
-
-**Study**  
-CSE · AI & ML
-
-**Daily tools**  
-Java · Python · JavaScript
-
-**Build interests**  
-AI products · Web apps · APIs
-
-**Collaboration**  
-Open to interesting projects
+| Signal | Details |
+|:--|:--|
+| Focus | CSE · AI & ML |
+| Base | India |
+| Languages | Java · Python · JavaScript |
+| Interests | AI · Web · APIs |
+| Mindset | Learn · Build · Iterate |
 
 </td>
 </tr>
 </table>
 
-## 03 — THE WORKBENCH
-
-<sub>A few projects from the workshop. Click a title to inspect the code.</sub>
+## 03 / SELECTED BUILDS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**AURA**  
-<sub>PERSONAL ROUTINE / AGENTIC AI</sub>
+### AURA
+<sub>AGENTIC AI · PERSONAL ROUTINE</sub>
 
-A routine-assistant project exploring how an intelligent system can help people organise goals and daily work.
+A routine assistant exploring how intelligent systems can help people organise goals and daily work.
 
-Next.js · TypeScript · Tailwind
+`Next.js` `TypeScript` `Tailwind`
 
-[↗ Open project](https://github.com/rudraksha-sh/AURA-Autonomous-User-Routine-Assistant-Agentic-Ai-System)
+[↗ View repository](https://github.com/rudraksha-sh/AURA-Autonomous-User-Routine-Assistant-Agentic-Ai-System)
 
 </td>
 <td width="50%" valign="top">
 
-**ANKUR STORE**  
-<sub>PRODUCT / E-COMMERCE</sub>
+### ANKUR STORE
+<sub>FULL-STACK · PRODUCT MANAGEMENT</sub>
 
-A product-management application with an admin dashboard, authentication and a growing set of commerce features.
+A product-management and commerce application with authentication, admin dashboard and product workflows.
 
-React · Node.js · Express · MongoDB
+`React` `Node.js` `Express` `MongoDB`
 
-[↗ Open project](https://github.com/Ankursingh7/ankur-store-premium)
+[↗ View repository](https://github.com/Ankursingh7/ankur-store-premium)
 
 </td>
 </tr>
 <tr>
 <td colspan="2">
 
-**DEEPDRIVER AI**  
-<sub>RESEARCH / RETRIEVAL-AUGMENTED GENERATION</sub>
+### DEEPDRIVER AI
+<sub>RESEARCH · RETRIEVAL-AUGMENTED GENERATION</sub>
 
-A research assistant project built around deeper Wikipedia retrieval, document processing, embeddings and semantic search.
+A research assistant exploring Wikipedia retrieval, document processing, embeddings and semantic search.
 
-Python · FastAPI · Embeddings · FAISS
+`Python` `FastAPI` `Embeddings` `FAISS`
 
-[↗ Open project](https://github.com/Anshikagarg-tech/Wikipedia-Deep-Diver-RAG)
+[↗ View repository](https://github.com/Anshikagarg-tech/Wikipedia-Deep-Diver-RAG)
 
 </td>
 </tr>
 </table>
 
-## 04 — THE TOOL DRAWER
+## 04 / TECHNOLOGY STACK
 
 <div align="center">
 
@@ -108,36 +102,53 @@ Python · FastAPI · Embeddings · FAISS
 
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&theme=dark" />
 
-**BUILDING WITH**
+**FRAMEWORKS & TOOLS**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,flask,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,flask,fastapi,git,github,vscode&theme=dark" />
 
-**DATA / AI / WORKFLOW**
+**DATA & AI**
 
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,mongodb,mysql,git,github,vscode&theme=dark" />
-
-</div>
-
-## 05 — ACTIVITY TRACE
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ankursingh7&show_icons=true&hide_border=true&bg_color=0B1712&title_color=72D69A&text_color=D5E8DB&icon_color=72D69A&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankursingh7&layout=compact&hide_border=true&bg_color=0B1712&title_color=72D69A&text_color=D5E8DB" />
-
-<br/>
-<img width="88%" src="https://streak-stats.demolab.com?user=Ankursingh7&hide_border=true&background=0B1712&ring=72D69A&fire=9BE7B5&currStreakLabel=72D69A&sideLabels=D5E8DB&dates=8A9B90&currStreakNum=E5F5E9&sideNums=E5F5E9" />
-<br/>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ankursingh7&bg_color=0B1712&color=D5E8DB&line=72D69A&point=E5F5E9&area=true&hide_border=true&custom_title=THE%20COMMIT%20TRAIL" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sklearn,pytorch&theme=dark" />
 
 </div>
 
-## 06 — OPEN CHANNEL
-
-Have a thoughtful project, an interesting engineering problem, or an idea worth testing?  
-[Start a conversation on GitHub](https://github.com/Ankursingh7).
+## 05 / GITHUB ACTIVITY
 
 <div align="center">
-<sub>GREENROOM_01 · Made of curiosity, coffee, and iterations.</sub>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1712&height=70&section=footer&text=END%20OF%20TRANSMISSION&fontSize=12&fontColor=72D69A&fontAlignY=55" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ankursingh7&show_icons=true&hide_border=true&bg_color=0B0B16&title_color=C4A7FF&text_color=E8E4F2&icon_color=A78BFA&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankursingh7&layout=compact&hide_border=true&bg_color=0B0B16&title_color=C4A7FF&text_color=E8E4F2" />
+
+<br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=Ankursingh7&hide_border=true&background=0B0B16&ring=A78BFA&fire=C4A7FF&currStreakLabel=C4A7FF&sideLabels=E8E4F2&dates=9993AA&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ankursingh7&bg_color=0B0B16&color=E8E4F2&line=A78BFA&point=C4A7FF&area=true&hide_border=true&custom_title=THE%20CONTRIBUTION%20TIMELINE" />
+
+</div>
+
+## 06 / CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ankursingh7/Ankursingh7/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
+
+<sub>To activate this animation, configure the GitHub Actions workflow described below.</sub>
+
+</div>
+
+## 07 / OPEN CHANNEL
+
+Interested in thoughtful projects, AI applications, web engineering or building something from scratch?
+
+[Open an issue or start a conversation](https://github.com/Ankursingh7).
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:321B46,55:17152D,100:080B18&height=110&section=footer&animation=twinkling" />
+
+<sub>DESIGNED IN THE MIDNIGHT BUILD MODE · KEEP MAKING THINGS THAT MATTER</sub>
+
 </div>
