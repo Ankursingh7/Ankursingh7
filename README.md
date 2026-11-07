@@ -1,45 +1,69 @@
-<!-- Hi, I'm Ankur. Thanks for visiting! -->
+<!-- Ankur Singh | GitHub profile -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=8B9A7A&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ankur+Singh+%F0%9F%91%8B;CSE+student+at+GLA+University;Interested+in+AI%2FML+and+web+development" alt="A short introduction" />
+  <img src="https://raw.githubusercontent.com/Ankursingh7/Ankursingh7/main/assets/profile-header.svg" width="100%" alt="Ankur Singh | Computer Science, AI and Machine Learning" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=1100&color=9BCB9A&center=true&vCenter=true&width=650&lines=Computer+Science+student;AI+%2F+ML+and+web+development;Learning+by+building+projects" alt="A little about me" />
 </div>
 
-I'm a third-year Computer Science student at **GLA University**, focused on **Artificial Intelligence and Machine Learning**.
+I'm **Ankur**, a third-year Computer Science student at **GLA University** in Mathura, India. My branch is **AI & Machine Learning**.
 
-I learn by making projects. Lately, I've been spending time with Java, Python and JavaScript, and building web apps alongside my AI/ML work.
+I spend most of my coding time with Java, Python and web technologies. I like building projects that let me learn something new, from a small interface to a machine-learning model.
 
-## A few things I've worked on
+---
 
-### [AURA](https://github.com/rudraksha-sh/AURA-Autonomous-User-Routine-Assistant-Agentic-Ai-System)
-A routine assistant for organising goals and daily tasks. I've been working on the frontend using **Next.js, TypeScript and Tailwind CSS**.
+### A few projects
 
-### [Ankur Store](https://github.com/Ankursingh7/ankur-store-premium)
-A product-management and e-commerce project with a dashboard, authentication and product management features. Built with **React, Node.js, Express and MongoDB**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ankursingh7/ankur-store-premium">Ankur Store</a></h3>
+      <p>A product and e-commerce application. I've been working with the dashboard, authentication and product-management features.</p>
+      <sub>React · Express · MongoDB · JavaScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ankursingh7/english_to_hindi_transformer">English → Hindi Transformer</a></h3>
+      <p>A neural machine-translation project exploring how transformer models can translate English sentences into Hindi.</p>
+      <sub>Python · PyTorch · Hugging Face · NLP</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ankursingh7/AI-Based-Voice-and-Motion-Controlled-Smart-Light-System">Smart Light System</a></h3>
+      <p>An ESP32-based lighting project with voice commands, Wi-Fi control and a relay-based switching setup.</p>
+      <sub>ESP32 · Arduino · Embedded C · IoT</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ankursingh7?tab=repositories">More experiments</a></h3>
+      <p>Small apps, coding practice and other things I've tried while learning computer science.</p>
+      <sub>See all repositories →</sub>
+    </td>
+  </tr>
+</table>
 
-### [DeepDriver AI](https://github.com/Anshikagarg-tech/Wikipedia-Deep-Diver-RAG)
-A research assistant project using Wikipedia content, embeddings and retrieval to help explore topics in more depth. The stack includes **Python, FastAPI and FAISS**.
-
-## Technologies
-
-**Languages:** Java · Python · JavaScript · TypeScript
-
-**Frontend:** React · Next.js · HTML · CSS · Tailwind CSS
-
-**Backend & data:** Node.js · Express · FastAPI · MongoDB · MySQL
-
-**Tools:** Git · GitHub · VS Code
-
-## GitHub
+### Technologies
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ankursingh7&show_icons=true&hide_border=true&bg_color=ffffff&title_color=52634A&text_color=444444&icon_color=7B8D68" alt="Ankur's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankursingh7&layout=compact&hide_border=true&bg_color=ffffff&title_color=52634A&text_color=444444" alt="Most used languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,express,tailwind,flask,mongodb,mysql,git,github,vscode&theme=dark" alt="Java, Python, JavaScript, TypeScript, React, Next.js, Node.js, Express, Tailwind, Flask, MongoDB, MySQL, Git, GitHub and VS Code" />
+</div>
+
+### GitHub at a glance
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ankursingh7&show_icons=true&hide_border=true&bg_color=0b1110&title_color=a7c5a5&text_color=d6dfd5&icon_color=91b694" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankursingh7&layout=compact&hide_border=true&bg_color=0b1110&title_color=a7c5a5&text_color=d6dfd5" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ankursingh7&bg_color=ffffff&color=52634A&line=7B8D68&point=52634A&area=true&hide_border=true" alt="GitHub contribution activity" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ankursingh7&bg_color=0b1110&color=d6dfd5&line=91b694&point=c9e7bf&area=true&hide_border=true" alt="Contribution activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ankursingh7/Ankursingh7/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
 </div>
 
 ---
 
-You can find my projects in the [repositories tab](https://github.com/Ankursingh7?tab=repositories). Always happy to learn from other people and collaborate on something interesting.
+<div align="center">
+  <sub>Thanks for stopping by. Feel free to look through my repositories.</sub>
+</div>
